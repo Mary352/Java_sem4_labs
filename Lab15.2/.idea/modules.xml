@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jar/Jar.iml" filepath="$PROJECT_DIR$/Jar/Jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_11.iml" filepath="$PROJECT_DIR$/Lab_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/War/War.iml" filepath="$PROJECT_DIR$/War/War.iml" />
+    </modules>
+  </component>
+</project>

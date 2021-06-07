@@ -1,0 +1,1599 @@
+03.05.2021  04:39:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:39:58 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:39:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:39:58 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:40:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:40:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:40:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:40:40 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:44:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:44:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:44:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:44:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:45:06 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:46:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:46:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:46:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:46:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:46:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  04:46:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  04:46:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:46:51 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:46:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:46:51 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  04:54:17 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  04:54:17 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:10:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:10:25 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:10:26 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:10:26 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:12:45 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:12:46 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:12:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:12:46 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:12:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:27:12 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:27:13 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:27:13 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:27:13 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:28:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:28:54 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:28:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:28:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:30:10 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:30:11 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:30:11 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:30:11 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:31:33 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:31:34 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:31:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:31:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:38:02 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:38:31 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:55 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:38:56 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:38:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:08 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:40:08 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:40:08 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:40:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:35 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:40:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:40:35 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:41:18 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:19 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:41:19 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:41:19 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:39 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:41:39 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:41:39 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:42:28 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:29 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:42:29 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:42:29 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:50 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:42:50 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:42:50 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:44:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:44:43 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:44:43 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:44:43 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:45:06 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:45:07 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:45:07 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:45:07 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:46:23 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:46:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:46:24 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:46:24 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:47:59 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:47:59 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:47:59 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:49:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:49:31 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:49:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:51:25 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:51:25 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:51:25 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:53:20 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:53:21 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:53:21 [main] ERROR by.belstu.kryukova.DBHelp  - error db select request
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:53:21 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:02 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:02 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:57:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:57 [main] INFO  by.belstu.kryukova.Main  - ------------------Starting program------------------
+03.05.2021  10:58:57 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------3_AUTHORS_WROTE_?_BOOKS-------------------
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------4_DELETE_BOOKS_OLDER_THEN_?_YEAR-------------------
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - BOOKS DELETED
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  10:58:58 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:34 [main] INFO  by.belstu.kryukova.Main  - ------------------Starting program------------------
+03.05.2021  11:00:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------3_AUTHORS_WROTE_?_BOOKS-------------------
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------4_DELETE_BOOKS_OLDER_THEN_?_YEAR-------------------
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - BOOKS DELETED
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:00:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:02:51 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:02:51 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:03:08 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:03:09 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:03:09 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:04:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:04:54 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:04:54 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:04:55 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:05:34 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:05:34 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:05:35 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:11:23 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:11:24 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:11:24 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:15:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:32 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:32 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:41 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:15:41 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:15:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:15:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:42 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:15:42 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:16:45 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:16:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:16:46 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:17:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:17:27 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:17:27 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:18:56 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:18:56 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:18:57 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:19:39 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:19:40 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  11:19:40 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:38:45 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:38:45 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:38:45 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:38:45 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:38:45 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:38:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:38:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:38:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:38:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:38:46 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:38:46 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:44:31 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:44:31 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:46:26 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:46:26 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:46:27 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:56:51 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:56:52 [TestNG-method=testGetPreparedStatement-1] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Сборник сказок - А.С. Пушкин - АСТ - 2022
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - No authors found
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------3_AUTHORS_WROTE_?_BOOKS-------------------
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+03.05.2021  15:56:52 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed

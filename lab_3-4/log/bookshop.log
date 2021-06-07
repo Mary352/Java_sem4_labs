@@ -1,0 +1,10 @@
+29.04.2021  08:42:33 [main] INFO  by.belstu.kryukova.Main  - Starting program________________
+29.04.2021  08:42:33 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:42:33 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:42:33 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:42:33 [main] INFO  by.belstu.kryukova.store.BookStore  - class BookStore method totalPrintEdsCost()
+29.04.2021  08:49:35 [main] INFO  by.belstu.kryukova.Main  - Starting program________________
+29.04.2021  08:49:35 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:49:36 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:49:36 [main] INFO  by.belstu.kryukova.printEditions.Book  - class Book method info()
+29.04.2021  08:49:36 [main] INFO  by.belstu.kryukova.store.BookStore  - class BookStore method totalPrintEdsCost()

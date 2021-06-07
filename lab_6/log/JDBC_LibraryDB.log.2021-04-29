@@ -1,0 +1,174 @@
+
+29.04.2021  09:27:52 [main] INFO  by.belstu.kryukova.Main  - ------------------Starting program------------------
+29.04.2021  09:27:52 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------4_DELETE_BOOKS_OLDER_THEN_?_YEAR-------------------
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - BOOKS DELETED
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+29.04.2021  09:27:53 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+29.04.2021  09:29:29 [main] INFO  by.belstu.kryukova.Main  - ------------------Starting program------------------
+29.04.2021  09:29:29 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - The book is already exist. Transaction is being rolled back
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+29.04.2021  09:29:30 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+29.04.2021  09:35:06 [main] INFO  by.belstu.kryukova.Main  - ------------------Starting program------------------
+29.04.2021  09:35:06 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------1_LAST_AND_CURRENT_YEAR_BOOKS-------------------
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED BOOKS
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - 1984 - Дж. Оруэлл - 2021 - Азбука-классика
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Скотный двор - Дж. Оруэлл - 2020 - Азбука-классика
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Старик и море - Э. Хемингуэй - 2021 - Эксмо
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Триумфальная арка - Эрих Мария Ремарк - 2020 - АСТ
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Э. Хемингуэй - США
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Эрих Мария Ремарк - Германия
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------2_AUTHORS_INFO-------------------
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - db select request
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - SELECTED AUTHORS
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - А.С. Пушкин - Российская империя
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - Дж. Оруэлл - Великобритания
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - У. Шекспир - Королевство Англия
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - END LIST
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting statement
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statement received
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - -------------------4_DELETE_BOOKS_OLDER_THEN_?_YEAR-------------------
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOKS DELETED
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting connection
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection established
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - getting prepared statement
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statement received
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - ---------------INSERT_DELETED_BOOKS---------------
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - BOOK INSERTED
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing prepared statment
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - prepared statment closed
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - closing connection
+29.04.2021  09:35:07 [main] INFO  by.belstu.kryukova.DBHelp  - connection closed
